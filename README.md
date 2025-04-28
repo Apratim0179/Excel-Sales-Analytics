@@ -7,13 +7,13 @@
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Apratim0179/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20pdf.pdf)_
   
-     3. Identify and rank them based on quantity sold _[Top 10 Product](https://github.com/Apratim0179/Excel-Sales-Analytics/blob/main/Top%2010%20Product%20pdf.pdf)_ 
+    **3.** Identify and rank them based on quantity sold _[Top 10 Product](https://github.com/Apratim0179/Excel-Sales-Analytics/blob/main/Top%2010%20Product%20pdf.pdf)_ 
 
-    4. Analyze division-level performance to understand business unit strengths
+    **4.** Analyze _[Division_level_Performance](https://github.com/Apratim0179/Excel-Sales-Analytics/blob/main/Division%20Level%20Report%20pdf.pdf)_ to understand business unit strengths 
 
-    5. Highlight top 5 countries by sales performance
+    **5.** Highlight  _[Top 5 countries](https://github.com/Apratim0179/Excel-Sales-Analytics/blob/main/Top%205%20countries%20in%202021%20pdf.pdf)_  by sales performance 
 
-    6. Explore opportunities through new product expansion analysis
+   **6.** Explore opportunities through _[New Product](https://github.com/Apratim0179/Excel-Sales-Analytics/blob/main/New%20Product%20in%202021%20pdf.pdf)_ expansion analysis
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -27,9 +27,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Apratim0179/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20fiscal%20Year%20pdf.pdf)_ & _[Months](https://github.com/Apratim0179/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Months%20pdf.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Apratim0179/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Market.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
